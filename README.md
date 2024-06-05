@@ -6,7 +6,7 @@
 
 _italico_
 
-**bold**
+**negrito**
 
 ~~tachado~~
 
